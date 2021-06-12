@@ -1,0 +1,221 @@
+*{
+	margin: 0px; padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background: #5A19BB;
+	font-family: arial, Sans-sarif;
+	color: #fff;
+	line-height: 1.8;
+}
+.container{
+	margin:40px auto;
+	width: 900px;
+	height: 500px;
+}
+.form-wrap{
+	width: 450px;
+	height: 550px;
+	float: left;
+}
+.banner{
+	width: 450px;
+	float: left;
+}
+.banner img{
+	width: 450px;
+	height: 550px;
+}
+.form-wrap{
+	color: #6C6EF8;
+	background: #fff;
+	padding: 15px 55px;
+	border: 1px solid #ddd;
+}
+.form-wrap img{
+	width: 100px;
+	height: 30px;
+}
+.form-wrap .helo{
+	color: #344AFE;
+	font-size: 22px;
+
+}
+.form-wrap .wel{
+	color: #344AFE;
+	font-size: 42px;
+	font-weight: 800;
+	font-family:Georgia, serif;
+}
+.form-wrap .form-group{
+	width: 100%;
+	padding: 0 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	border-left: 5px solid #F92DFA;
+}
+.form-wrap .form-group input{
+	width: 100%;
+	border: none;
+	outline: 0;
+}
+.form-wrap .form-group p{
+	color: #ccc;
+}
+.form-wrap .form-group1{
+	width: 100%;
+	padding: 0 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+.form-wrap .form-group1 input{
+	width: 100%;
+	border: none;
+	outline: 0;
+}
+.form-wrap .form-group1 p{
+	color: #ccc;
+}
+.form-wrap .text{
+	width: 100%;
+	color: #ccc;
+	margin-top: 20px;
+}
+.form-wrap .text .text-left{
+	width: 50%;
+	float: left;
+}
+.form-wrap .text .text-right{
+	width: 50%;
+	float: left;
+	left: 50px;
+    position: relative;
+}
+.form-wrap .text .text-right a{
+	text-decoration:none;
+	color: #ccc;
+}
+.form-wrap .dual-btn{
+	width: 100%;
+	margin-top: 80px;
+}
+.form-wrap .dual-btn .left-btn{
+	width: 50%;
+	float: left;
+}
+.form-wrap .dual-btn .left-btn .btn{
+	padding: 7px 35px;
+	background: #FE28FF;
+	border: 2px solid #FE28FF;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+}
+.form-wrap .dual-btn .left-btn .btn:hover{
+	background: #fff;
+	color:#FE28FF ;
+}
+.form-wrap .dual-btn .right-btn{
+	width: 50%;
+	float: left;
+	left: -50px;
+	position: relative;
+}
+.form-wrap .dual-btn .right-btn input{
+	padding: 7px 35px;
+	background: #fff;
+	border: 2px solid #3848FF;
+	color: #3848FF;
+	font-size: 14px;
+	font-weight: 500;
+}
+.form-wrap .dual-btn .right-btn input:hover{
+	background: #FE28FF;
+	color: #fff;
+	border: 2px solid #FE28FF;
+}
+.form-wrap .icon{
+	width: 100%;
+	margin-top: 170px;
+}
+.form-wrap .icon-left{
+	width: 25%;
+	float: left;
+}
+.form-wrap .icon-left p{
+	color: #ccc;
+	font-size: 16px;
+	padding: 5px;
+}
+.form-wrap .icon-right{
+	width: 75%;
+	float: left;
+}
+.form-wrap .icon-right i{
+	padding: 9px 12px;
+	color: #ccc;
+}
+.form-wrap .reg-heading{
+	color: #42237A;
+	font-size: 22px;
+	font-family: sans-serif;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.form-wrap .textbox-fullname{
+	width: 100%;
+	padding-bottom: 50px;
+}
+.form-wrap .textbox-fullname input{
+	width: 100%;
+	border: none;
+	outline: 0;
+}
+.form-wrap .textbox-fullname p{
+	color: #5C5E75;
+	
+}
+.form-wrap .textbox-fullname .textbox1{
+	width: 45%;
+	float: left;
+	padding: 0 10px;
+	border-bottom: 1px solid #15C3A4;
+	border-radius: 3px;
+	margin-right: 10px;
+}
+.form-wrap .textbox-fullname .textbox2{
+	width: 45%;
+	float: left;
+	padding: 0 10px;
+	border-bottom: 1px solid #15C3A4;
+	border-radius: 3px;
+	margin-left: 20px;
+}
+.form-wrap .textbox{
+	width: 100%;
+	padding: 0 10px;
+	border-bottom: 1px solid #15C3A4;
+	border-radius: 3px;
+}
+.form-wrap .textbox input{
+	width: 100%;
+	border: none;
+	outline: 0;
+
+}
+.form-wrap .textbox p{
+	color: #5C5E75;
+	padding-top: 30px;
+}
+.form-wrap .button-reg{
+	margin-top: 30px;
+	margin-left: 70px;
+}
+.form-wrap .button-reg .btn{
+	padding: 10px 35px;
+	background: #444F7D;
+	border-radius: 10px;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+}
